@@ -1,0 +1,4 @@
+# artifacts not needed for source controll
+## bin/* can aslo be exluded not required for source controll
+.vs/*
+obj/*

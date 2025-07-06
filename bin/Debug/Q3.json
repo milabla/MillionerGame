@@ -1,0 +1,122 @@
+[
+  {
+    "Text": "Која е доминантна  боја на небото?",
+    "OptionA": "A) Црвена",
+    "OptionB": "B) Сина",
+    "OptionC": "C) Зелена",
+    "OptionD": "D) Жута",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Text": "Која е главниот град на Франција?",
+    "OptionA": "A) Лондон",
+    "OptionB": "B) Берлин",
+    "OptionC": "C) Париз",
+    "OptionD": "D) Рим",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Text": "Кој е највисокиот врв на светот?",
+    "OptionA": "A) МонБлан",
+    "OptionB": "B) Еверест",
+    "OptionC": "C) Килиманџаро",
+    "OptionD": "D) Аконкагва",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Text": "Кој е најдолгata рекa на светот?",
+    "OptionA": "A) Амазон",
+    "OptionB": "B) Нил",
+    "OptionC": "C) Јангце",
+    "OptionD": "D) Мисисипи",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Text": "Колку секунди има во еден час?",
+    "OptionA": "A) 360",
+    "OptionB": "B) 3600",
+    "OptionC": "C) 6000",
+    "OptionD": "D) 60",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Text": "Кој е најголемиот океан на Земјата?",
+    "OptionA": "A) Атлантски",
+    "OptionB": "B) Индиски",
+    "OptionC": "C) Тихи",
+    "OptionD": "D) Северен Леден",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Text": "Како се вика највисоката зграда во светот?",
+    "OptionA": "A) Бурџ Калифа",
+    "OptionB": "B) Емпајр Стејт Билдинг",
+    "OptionC": "C) Тајпеј 101",
+    "OptionD": "D) Шангајска кула",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Text": "Кој е симболот на хемискиот елемент злато?",
+    "OptionA": "A) Ag",
+    "OptionB": "B) Au",
+    "OptionC": "C) Zn",
+    "OptionD": "D) Hg",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Text": "Во кој град се наоѓа музејот Лувр?",
+    "OptionA": "A) Лондон",
+    "OptionB": "B) Париз",
+    "OptionC": "C) Берлин",
+    "OptionD": "D) Рим",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Text": "Кој грчки бог е бог на морето?",
+    "OptionA": "A) Арес",
+    "OptionB": "B) Хадес",
+    "OptionC": "C) Посејдон",
+    "OptionD": "D) Зевс",
+    "CorrectAnswer": "C"
+  },
+  {
+    "Text": "Кој филм освои Оскар за најдобар филм во 2023 година?",
+    "OptionA": "A) Avatar: The Way of Water",
+    "OptionB": "B) Everything Everywhere All at Once",
+    "OptionC": "C) Top Gun: Maverick",
+    "OptionD": "D) Elvis",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Text": "Колку планети има во Сончевиот систем?",
+    "OptionA": "A) 7",
+    "OptionB": "B) 8",
+    "OptionC": "C) 9",
+    "OptionD": "D) 10",
+    "CorrectAnswer": "B"
+  },
+  {
+    "Text": "Кој спорт се игра со 11 играчи во тим на трева?",
+    "OptionA": "A) Фудбал",
+    "OptionB": "B) Кошарка",
+    "OptionC": "C) Одбојка",
+    "OptionD": "D) Бејзбол",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Text": "Како се вика најголемиот остров на светот?",
+    "OptionA": "A) Гренланд",
+    "OptionB": "B) Австралија",
+    "OptionC": "C) Нова Гвинеја",
+    "OptionD": "D) Медитеранот",
+    "CorrectAnswer": "A"
+  },
+  {
+    "Text": "Колку години живеел Александар Македонски?",
+    "OptionA": "A) 26",
+    "OptionB": "B) 29",
+    "OptionC": "C) 30",
+    "OptionD": "D) 32",
+    "CorrectAnswer": "D"
+  }
+]
