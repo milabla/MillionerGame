@@ -1,0 +1,130 @@
+[
+    {
+        "Text": "Кој е авторот на романот 'Кратката историја на времето'?",
+        "OptionA": "A) Стивен Хокинг",
+        "OptionB": "B) Алберт Ајнштајн",
+        "OptionC": "C) Исаак Ньютон",
+        "OptionD": "D) Никола Тесла",
+        "CorrectAnswer": "A"
+    },
+    {
+        "Text": "Која е главната столица на Австралија?",
+        "OptionA": "A) Сиднеј",
+        "OptionB": "B) Мелбурн",
+        "OptionC": "C) Канбера",
+        "OptionD": "D) Брисбен",
+        "CorrectAnswer": "C"
+    },
+    {
+        "Text": "Кој е највисокиот планински врв во светот?",
+        "OptionA": "A) К2",
+        "OptionB": "B) Еверест",
+        "OptionC": "C) Канченџанга",
+        "OptionD": "D) Лхотсе",
+        "CorrectAnswer": "B"
+    },
+    {
+        "Text": "Која е најдолгата река во светот?",
+        "OptionA": "A) Амазонка",
+        "OptionB": "B) Нил",
+        "OptionC": "C) Јангце",
+        "OptionD": "D) Мисисипи",
+        "CorrectAnswer": "B"
+    },
+    {
+        "Text": "Кое е хемиско симболот за злато?",
+        "OptionA": "A) Au",
+        "OptionB": "B) Ag",
+        "OptionC": "C) Pb",
+        "OptionD": "D) Fe",
+        "CorrectAnswer": "A"
+    },
+    {
+        "Text": "Кој е најголемиот океан на Земјата?",
+        "OptionA": "A) Атлантски океан",
+        "OptionB": "B) Индијски океан",
+        "OptionC": "C) Тихи океан",
+        "OptionD": "D) Арктички океан",
+        "CorrectAnswer": "C"
+    },
+    {
+        "Text": "Во кој град се наоѓа познатиот музеј 'Лувр'?",
+        "OptionA": "A) Лондон",
+        "OptionB": "B) Париз",
+        "OptionC": "C) Рим",
+        "OptionD": "D) Берлин",
+        "CorrectAnswer": "B"
+    },
+    {
+        "Text": "Која е највисоката зграда во светот?",
+        "OptionA": "A) Бурџ Калифа",
+        "OptionB": "B) Шангај Тауер",
+        "OptionC": "C) АБСА Тауер",
+        "OptionD": "D) Тианхе Тауер",
+        "CorrectAnswer": "A"
+    },
+    {
+        "Text": "Кој е основачот на Фејсбук?",
+        "OptionA": "A) Илон Маск",
+        "OptionB": "B) Марк Цукерберг",
+        "OptionC": "C) Бил Гејтс",
+        "OptionD": "D) Лари Пејџ",
+        "CorrectAnswer": "B"
+    },
+    {
+        "Text": "Кое е првото име на компјутерот?",
+        "OptionA": "A) ENIAC",
+        "OptionB": "B) UNIVAC",
+        "OptionC": "C) Z3",
+        "OptionD": "D) Colossus",
+        "CorrectAnswer": "A"
+    },
+    {
+        "Text": "Кој е најголемиот континент?",
+        "OptionA": "A) Африка",
+        "OptionB": "B) Азија",
+        "OptionC": "C) Европа",
+        "OptionD": "D) Северна Америка",
+        "CorrectAnswer": "B"
+    },
+    {
+        "Text": "Која е најпопуларната програма за обработка на текст?",
+        "OptionA": "A) LibreOffice Writer",
+        "OptionB": "B) Google Docs",
+        "OptionC": "C) Microsoft Word",
+        "OptionD": "D) Notepad",
+        "CorrectAnswer": "C"
+    },
+    {
+        "Text": "Кое е најпознатото дело на Микеланџело?",
+        "OptionA": "A) Давид",
+        "OptionB": "B) Сикстинска капела",
+        "OptionC": "C) Мона Лиза",
+        "OptionD": "D) Рафаело",
+        "CorrectAnswer": "B"
+    },
+    {
+        "Text": "Кој е најбрзиот животински вид на Земјата?",
+        "OptionA": "A) Гепард",
+        "OptionB": "B) Сокол",
+        "OptionC": "C) Конј",
+        "OptionD": "D) Куче",
+        "CorrectAnswer": "A"
+    },
+    {
+        "Text": "Која е главната причина за глобалното затоплување?",
+        "OptionA": "A) Природни циклуси",
+        "OptionB": "B) Сончевата активност",
+        "OptionC": "C) Човечките активности",
+        "OptionD": "D) Вулкански активности",
+        "CorrectAnswer": "C"
+    },
+    {
+        "Text": "Која држава е позната по производството на чоколадо?",
+        "OptionA": "A) Швајцарија",
+        "OptionB": "B) Белгија",
+        "OptionC": "C) Франција",
+        "OptionD": "D) Германија",
+        "CorrectAnswer": "B"
+    }
+]
